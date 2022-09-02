@@ -9,7 +9,7 @@
 
 ```go
 // live like chad ...
-go inLove([]string{"golang", "golang", "golang", "C", "rust"})
+go inLove([]string{"music", "game", "golang", "C", "rust"})
 
 for alive() == true {
     eat()

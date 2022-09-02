@@ -1,7 +1,7 @@
 # giga-chad
 <p align="center">
 
-  <img src="./icons/4_5861882871521742335.png" />
+  <img src="./icons/4_5861882871521742335.png" width="256" height="256" />
 
 > _'' Never too late to do what you have been dreamed of ''_
 

@@ -3,11 +3,13 @@
 
   <img src="./icons/4_5861882871521742335.png" width="300" height="300" />
 
-> _'' Can you feel my heart ? ''_
+> _'' Can you feel the broken ... 
+> Can you feel my heart ? ''_
 
 </p>
 
 ```go
+// live like chad ...
 go inLove([]string{"golang", "golang", "golang", "C", "rust"})
 
 for alive() == true {

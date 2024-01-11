@@ -2,7 +2,7 @@
 
   <img src="./icons/4_5861882871521742335.png" width="300" height="300" />
 
-> _'' Can you feel the broken ... 
+> _'' Can you fix the broken ... 
 > Can you feel my heart ? ''_
 
 </p>

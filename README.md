@@ -1,32 +1,7 @@
 <p align="center">
 
-  <img src="./icons/4_5861882871521742335.png" width="300" height="300" />
-
-> _'' Can you fix the broken ... 
-> Can you feel my heart ? ''_
-
-</p>
-
-```go
-// live like chad ...
-go inLove([]string{"music", "kubernetes", "golang", "C", "rust"})
-
-for alive() == true {
-    eat()
-    code()
-	listenMusic()
-    if haveTime() {
-        game()
-    }
-    sleep()
-}
-
-die()
-```
-___
-
 ### About me
-Hello, I'm ***Mohamad Sadegh***! 👋, a 22 years old computer engineer, Back-end and cloud developer.<br />
+Hello, I'm ***Mohamad Sadegh***! 👋, a 23 years old computer engineer, Back-end and cloud engineer.<br />
 Currently studying **Computer Engineering** at _Amirkabir University of Tehran_, Iran.<br /><br />
 I'm always eager to dive deep into the world of coding and technology.
 and Also three years experience in **golang** developing.<br />
@@ -37,8 +12,8 @@ I've been fascinated by the power of coding since my teenage years. Over time, I
 ___
 
 ### Fields of interest
-- Software engineering
 - Cloud engineering
+- Software engineering
 - Networks
 - Teaching and Mentoring
 

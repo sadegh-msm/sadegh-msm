@@ -1,10 +1,8 @@
 <p align="center">
 
 ### About me
-Hello, I'm ***Mohamad Sadegh***! 👋, a 24 years old computer engineer, Back-end and cloud engineer.<br />
-Currently studying **Computer Engineering** at _Amirkabir University of Tehran_, Iran.<br /><br />
-I'm always eager to dive deep into the world of coding and technology.
-and Also three years experience in **golang** developing.<br />
+Hello, I'm ***Mohammad Sadegh***! 👋, a 24 years old computer engineer, Back-end and cloud engineer.<br />
+Currently studying **Computer Science** at _University of Stuttgart_, Germany.<br /><br />
 
 ### Professional Journey
 I've been fascinated by the power of coding since my teenage years. Over time, I've developed robust back-end systems and contributed to open-source projects, sharpening my skills in Golang, Python, and C.

@@ -1,7 +1,7 @@
 <p align="center">
 
 ### About me
-Hello, I'm ***Mohammad Sadegh***! 👋, a 24 years old computer engineer, Back-end and cloud engineer.<br />
+Hello, I'm ***Mohammad Sadegh (Erik)***! 👋, a 24 years old computer engineer, Back-end and cloud engineer.<br />
 Currently studying **Computer Science** at _University of Stuttgart_, Germany.<br /><br />
 
 ### Professional Journey
